@@ -1,0 +1,1 @@
+!wget -O models/loras/lustify.safetensors "https://civitai.com/api/download/models/1588039"
